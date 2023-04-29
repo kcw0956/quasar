@@ -72,9 +72,10 @@ const linksList = [
   },
 
   {
-    title: 'BookReader'
-    caption: 'BookList'
-    icon: 
+    title: 'BookReader',
+    caption: 'BookList',
+    icon: 'book',
+    link: '/book'
   },
 
   
