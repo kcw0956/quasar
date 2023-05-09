@@ -78,6 +78,26 @@ const linksList = [
     link: '/book'
   },
 
+  {
+      title: "db todo list",
+    caption: "vue + database",
+    icon: "chat",
+    link: "/dbtodo",
+  },
+
+  {
+      title: "Sub_todo",
+    caption: "Subject",
+    icon: "chat",
+    link: "/subtodo",
+  },
+
+  {
+    title: "Check_subtodo",
+    caption: "check",
+    icon: "chat",
+    link: "/sub_test"
+  }
   
   
   /*{

@@ -8,6 +8,8 @@ const routes = [
       { path: '/vue', component: () => import('pages/VueEx.vue') },
       {path: '/todo', component: () => import('pages/Todo.vue')},
       {path: '/book', component: () => import('pages/Book.vue')},
+      { path: "/dbtodo", component: () => import("pages/DbTodo.vue") },
+      {path: '/subtodo', component: () => import('pages/Sub_Todo.vue')},
 
     ]
   },
